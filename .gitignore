@@ -1,2 +1,9 @@
+<<<<<<< Updated upstream
 /bin/
 /.classpath/
+=======
+*.classpath
+/.vscode
+/bin
+//djshjhsdkjhdksd
+>>>>>>> Stashed changes
