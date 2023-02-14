@@ -5,11 +5,11 @@
 
 # Thành viên nhóm
 <ul>
-  <li><a href = Đoàn Sỹ Nguyên> <https://github.com/doannguyenfc02 </a> <https://github.com/doannguyenfc02</li>
-  <li>Dương Khánh Tuân <a>https://github.com/khanhtuan9420</a></li>
-  <li>Mai Xuân Ngọc <a>https://github.com/mxngocqb</a></li>
-  <li>Vũ Hoàng Dũng <a>https://github.com/VHDungFromND</a></li>
-  <li>Giang Trung Nghĩa <a>https://github.com/wolf-science</a></li>
+  <li>Đoàn Sỹ Nguyên    https://github.com/doannguyenfc02</li>
+  <li>Dương Khánh Tuân  https://github.com/khanhtuan9420</li>
+  <li>Mai Xuân Ngọc     https://github.com/mxngocqb</li>
+  <li>Vũ Hoàng Dũng     https://github.com/VHDungFromND</li>
+  <li>Giang Trung Nghĩa https://github.com/wolf-science</li>
 </ul>
 
 
