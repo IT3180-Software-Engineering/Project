@@ -5,11 +5,11 @@
 
 # Thành viên nhóm
 <ul>
-<li>Đoàn Sỹ Nguyên https://github.com/doannguyenfc02</li>
-<li>Dương Khánh Tuân https://github.com/khanhtuan9420</li>
-<li>Mai Xuân Ngọc https://github.com/mxngocqb</li>
-<li>Vũ Hoàng Dũng https://github.com/VHDungFromND</li>
-<li>Giang Trung Nghĩa https://github.com/wolf-science</li>
+  <li>Đoàn Sỹ Nguyên <a>https://github.com/doannguyenfc02</a></li>
+  <li>Dương Khánh Tuân <a>https://github.com/khanhtuan9420</a></li>
+  <li>Mai Xuân Ngọc <a>https://github.com/mxngocqb</a></li>
+  <li>Vũ Hoàng Dũng <a>https://github.com/VHDungFromND</a></li>
+  <li>Giang Trung Nghĩa <a>https://github.com/wolf-science</a></li>
 </ul>
 
 
@@ -20,7 +20,9 @@
 <li>Tải về thư viện OpenJFX mới nhất tại trang chủ https://gluonhq.com/products/javafx/></li>
 <li>Tải file cơ sở dữ liệu trong thư mục database, tạo và import cơ sở dữ liệu trong mySQL. Chỉnh sửa trong class service.MysqlConnection mật khẩu phù hợp với mật khẩu tại của mySQL tại máy bạn ( thường trên Win thì không có mật khẩu thì sẽ để password = "") </li>
 <li>Tải về thư viện OpenJFX mới nhất tại trang chủ <a href="https://gluonhq.com/products/javafx/" target="_blank">https://gluonhq.com/products/javafx/</a> </li>
-<li>Tải về thư viện mySQL connector từ 8.0 trở lên, các bạn có thể tải thư viện này từ trang của Maven Project <a href="https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22" target="_blank">https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22 </a> </li>
+<li>-	Tải về thư viện MySQL connector từ 8.0 trở lên, có thể tải thư viện tại
+  <a>https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22</a>
+ </li>
 <li>Thêm tất cả vào thư viện trong Java để có thể chạy được Project</li>
 </ul>
 
