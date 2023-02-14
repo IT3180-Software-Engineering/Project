@@ -3,6 +3,16 @@
 <h2>Quản lý dân cư – nghiệp vụ thu phí, đóng góp</h2>
 
 
+# Thành viên nhóm
+<ul>
+<li>Đoàn Sỹ Nguyên https://github.com/doannguyenfc02</li>
+<li>Dương Khánh Tuân https://github.com/khanhtuan9420</li>
+<li>Mai Xuân Ngọc https://github.com/mxngocqb</li>
+<li>Vũ Hoàng Dũng https://github.com/VHDungFromND</li>
+<li>Giang Trung Nghĩa https://github.com/wolf-science</li>
+</ul>
+
+
 # huongdancaidat
 <ul>
 <li>Tải về MySQL Server tại https://dev.mysql.com/downloads/mysql/, có thể cài.</li>
@@ -14,11 +24,3 @@
 <li>Thêm tất cả vào thư viện trong Java để có thể chạy được Project</li>
 </ul>
 
-# Thành viên nhóm
-<ul>
-<li>Đoàn Sỹ Nguyên https://github.com/doannguyenfc02</li>
-<li>Dương Khánh Tuân https://github.com/khanhtuan9420</li>
-<li>Mai Xuân Ngọc https://github.com/mxngocqb</li>
-<li>Vũ Hoàng Dũng https://github.com/VHDungFromND</li>
-<li>Giang Trung Nghĩa https://github.com/wolf-science</li>
-</ul>
