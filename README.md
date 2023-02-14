@@ -13,7 +13,8 @@
 <li>Tải về thư viện mySQL connector từ 8.0 trở lên, các bạn có thể tải thư viện này từ trang của Maven Project <a href="https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22" target="_blank">https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22 </a> </li>
 <li>Thêm tất cả vào thư viện trong Java để có thể chạy được Project</li>
 </ul>
-#Thành viên nhóm
+
+# Thành viên nhóm
 <ul>
 <li>Đoàn Sỹ Nguyên https://github.com/doannguyenfc02</li>
 <li>Dương Khánh Tuân https://github.com/khanhtuan9420</li>
