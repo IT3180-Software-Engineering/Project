@@ -5,7 +5,7 @@
 
 # Thành viên nhóm
 <ul>
-  <li><a>Đoàn Sỹ Nguyên</a> <https://github.com/doannguyenfc02</li>
+  <li><a href = Đoàn Sỹ Nguyên> <https://github.com/doannguyenfc02 </a> <https://github.com/doannguyenfc02</li>
   <li>Dương Khánh Tuân <a>https://github.com/khanhtuan9420</a></li>
   <li>Mai Xuân Ngọc <a>https://github.com/mxngocqb</a></li>
   <li>Vũ Hoàng Dũng <a>https://github.com/VHDungFromND</a></li>
